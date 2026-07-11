@@ -1,0 +1,1 @@
+package com.example.ems; public class App{ public static double net(double b,double a,double d){return b+a-d;} public static void main(String[] args){System.out.println(net(50000,5000,2000));}}
